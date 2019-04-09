@@ -18,6 +18,7 @@
 - 线上协作
   - [190330 第一次会议：明确信息搜集角度和任务分工](Contents/Review1.md)
   - [190403 第二次会议：分享信息、讨论问题、明确深挖方向和主题](Contents/Review2.md)
+  - 190407 第三次会议：分享信息、定PPT框架、PPT分工
 - [项目资料：见wiki](https://github.com/i-trista/IA004TeslaBP/wiki)
 - 成果展示
   
